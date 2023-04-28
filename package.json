@@ -1,8 +1,8 @@
 {
-  "name": "bc-48-react-project",
+  "name": "react-team-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://001elijah.github.io/bc-48-react-project/",
+  "homepage": "https://vorotnoy.github.io/react-team-project/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
